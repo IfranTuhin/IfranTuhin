@@ -9,19 +9,19 @@ I focus on writing **clean, maintainable code** and delivering **user-centric ex
 
 🔹 **Experience:**  Building Flutter apps for Android & iOS  
 🔹 **Backend Knowledge:** REST APIs, Firebase, and third-party integrations  
-🔹 **Languages:** Dart, Java, C, C++ (Basics)  
+🔹 **Languages:** Dart, Java, Dart, C, C++ (Basics)  
 🔹 **Other Interests:** UI/UX design, AI-powered mobile apps, and system optimization  
 
 ---
 
 ### ⚙️ Tech Stack & Tools  
 #### 🚀 Flutter & Dart
-- State Management: GetX, Provider  
+- State Management: GetX, Provider, Bloc  
 - Networking: Dio, HTTP  
 - Database: SQLite, Hive, SharedPreferences  
 - Notifications: Firebase, flutter_local_notifications  
-- Animations: animations package, Lottie  
-- Payment Integrations: Stripe, SSLCommerz  
+- Animations: animations package, Lottie, Hero 
+
 
 #### 🛠️ Others  
 - Git & GitHub  
@@ -48,7 +48,7 @@ I focus on writing **clean, maintainable code** and delivering **user-centric ex
 ---
 
 ### 📫 How to Reach Me  
-📧 **Email:** ifrantuhin@gmail.com  
+📧 **Email:** ifranhossentuhin@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/ifrantuhin](https://linkedin.com/in/ifrantuhin)  
 💻 **GitHub:** [github.com/IfranTuhin](https://github.com/IfranTuhin)  
 
@@ -72,13 +72,6 @@ I focus on writing **clean, maintainable code** and delivering **user-centric ex
   <img src="https://streak-stats.demolab.com?user=IfranTuhin&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
-
-### ✨ Featured Projects  
-🔹 **Assalam App** — Islamic learning & Quran audio player (Flutter + Firebase)  
-🔹 **AI Image Generator** — Generate AI images using OpenAI API  
-🔹 **Quiz Master** — Interactive quiz app with levels and score tracking  
-🔹 **Plant Identifier** — AI-based plant recognition mobile app  
 
 ---
 
