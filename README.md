@@ -1,64 +1,71 @@
-```markdown
 # 👋 Hi, I'm Ifran Hossen Tuhin
 
 <h3 align="center">Flutter Developer | Cross-Platform Mobile App Developer</h3>
 
 <p align="center">
-Building high-quality Android & iOS applications with Flutter.
+  Building scalable, high-performance, and production-ready mobile applications with Flutter.
 </p>
 
 ---
 
 ## 💫 About Me
 
-I'm a **Flutter Developer** with **2.5+ years of professional experience** building scalable, high-performance, and user-centric mobile applications.
+I'm a **Flutter Developer** with **2.5+ years of professional experience** building modern, scalable, and user-centric Android & iOS applications using Flutter.
 
-I specialize in developing production-ready Android and iOS apps using Flutter, integrating Firebase, RESTful APIs, real-time communication, payment gateways, and third-party services. I enjoy writing clean, maintainable code and delivering seamless user experiences.
+I have hands-on experience developing and publishing production-ready applications on both the **Google Play Store** and the **Apple App Store**. My expertise includes **Flutter, Firebase, RESTful APIs, WebSocket, Google Calendar API, In-App Purchases, Payment Gateway Integration, Maps, Localization, and Offline Support**.
+
+I enjoy writing clean, maintainable code, solving real-world problems, and continuously learning new technologies to build better mobile experiences.
 
 ---
 
-## 💼 Professional Highlights
+## 🚀 Professional Highlights
 
-- 📱 2.5+ Years of Flutter Development Experience
+- 📱 2.5+ Years of Professional Flutter Development
 - 🚀 Published Apps on Google Play Store & Apple App Store
 - 📦 Developed 18+ Production-Ready Mobile Applications
 - 🔥 Firebase Authentication, Firestore & Cloud Messaging
-- 🔗 REST API Integration
-- 💬 WebSocket & Real-time Features
+- 🔗 RESTful API Integration
+- 💬 WebSocket & Real-Time Features
 - 💳 Payment Gateway Integration
 - 🛒 In-App Purchase & Subscription
 - 📅 Google Calendar API Integration
-- 📍 Google Maps & Mapbox
+- 📍 Google Maps, Mapbox & Geolocation
 - 🌍 Localization & Offline Support
-- 🤝 Experience Working with Agile Teams
+- 🤝 Agile Development & Team Collaboration
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages
+
 - Dart
 - Java (Basic)
 - Python (Basic)
 
 ### 📱 Mobile Development
+
 - Flutter
 
 ### ⚡ State Management
+
 - GetX
 - Provider
 - Bloc (Basic)
 
 ### 🔥 Backend & Cloud
+
 - Firebase
 - RESTful APIs
 
 ### 💾 Local Storage
+
 - Hive
 - SQLite
 - SharedPreferences
 
 ### 🔗 Integrations
+
 - Firebase Authentication
 - Cloud Firestore
 - Firebase Cloud Messaging
@@ -72,6 +79,7 @@ I specialize in developing production-ready Android and iOS apps using Flutter, 
 - In-App Purchase
 
 ### 💳 Payment Gateways
+
 - Stripe
 - PayPal
 - SSLCommerz
@@ -81,6 +89,7 @@ I specialize in developing production-ready Android and iOS apps using Flutter, 
 - Apple Pay
 
 ### 🧰 Tools
+
 - Git
 - GitHub
 - Android Studio
@@ -93,8 +102,8 @@ I specialize in developing production-ready Android and iOS apps using Flutter, 
 ## 🌱 Currently Learning
 
 - Go (Golang) Backend Development
-- System Design
 - Flutter Web
+- System Design
 - Scalable Backend Architecture
 - AI-powered Mobile Applications
 
@@ -103,11 +112,8 @@ I specialize in developing production-ready Android and iOS apps using Flutter, 
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IfranTuhin&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IfranTuhin&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IfranTuhin&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IfranTuhin&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -115,24 +121,23 @@ I specialize in developing production-ready Android and iOS apps using Flutter, 
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=IfranTuhin&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=IfranTuhin&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: **ifranhossentuhin@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/ifran-hossain-tuhin-9218b0209/**
-- 💻 GitHub: **https://github.com/IfranTuhin**
+- 📧 **Email:** ifranhossentuhin@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ifran-hossain-tuhin-9218b0209/
+- 💻 **GitHub:** https://github.com/IfranTuhin
 
 ---
 
 ## 💡 Quote
 
-> **"Building scalable, beautiful, and production-ready mobile applications with Flutter."**
+> **"Turning ideas into scalable, production-ready mobile applications with Flutter."**
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
-```
+---
+
+⭐ **Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.**
