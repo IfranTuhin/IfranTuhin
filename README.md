@@ -1,78 +1,138 @@
-## Hi there 👋, I'm Ifran Tuhin  
-### 💻 Flutter Developer | ☕ Java | 🧠 C/C++ Basics | 🚀 Building Modern Mobile Experiences  
+# 👋 Hi, I'm Ifran Hossen Tuhin
+
+### Flutter Developer | Cross-Platform Mobile App Developer
+
+I'm a Flutter Developer with **2.5+ years of professional experience** building high-quality Android and iOS applications. I specialize in developing scalable, user-friendly mobile apps using Flutter and modern development practices.
+
+I have successfully developed and published production-ready applications on both the **Google Play Store** and the **Apple App Store**, working with Firebase, RESTful APIs, payment gateways, real-time communication, and third-party integrations.
 
 ---
 
-### 🧑‍💻 About Me  
-I’m a passionate **Flutter Developer** who loves building **beautiful, high-performance, and scalable mobile applications**.  
-I focus on writing **clean, maintainable code** and delivering **user-centric experiences**.  
+## 🚀 About Me
 
-🔹 **Experience:**  Building Flutter apps for Android & iOS  
-🔹 **Backend Knowledge:** REST APIs, Firebase, and third-party integrations  
-🔹 **Languages:** Dart, Java, Dart, C, C++ (Basics)  
-🔹 **Other Interests:** UI/UX design, AI-powered mobile apps, and system optimization  
-
----
-
-### ⚙️ Tech Stack & Tools  
-#### 🚀 Flutter & Dart
-- State Management: GetX, Provider, Bloc  
-- Networking: Dio, HTTP  
-- Database: SQLite, Hive, SharedPreferences  
-- Notifications: Firebase, flutter_local_notifications  
-- Animations: animations package, Lottie, Hero 
-
-
-#### 🛠️ Others  
-- Git & GitHub  
-- Android Studio / VS Code  
-- API Integration  
-- JSON / RESTful APIs  
-- Firebase (Auth, Firestore, Push Notification)  
+* 📱 2.5+ years of Flutter development experience
+* 🚀 Published apps on **Google Play Store** & **Apple App Store**
+* 🔥 Experienced with Firebase & RESTful APIs
+* 💳 Integrated multiple Payment Gateways
+* 🛒 Implemented In-App Purchase & Subscriptions
+* 📅 Google Calendar API Integration
+* 💬 WebSocket & Real-time Features
+* 🌍 Multi-language & Offline Support
+* 📍 Google Maps & Mapbox Integration
+* 🧩 Clean, maintainable, and scalable code
 
 ---
 
-### 🌱 Currently Learning  
-- Advanced Flutter animations  
-- Flutter Web & Desktop  
-- Clean Architecture  
-- AI + Flutter integrations  
+## 🛠 Tech Stack
+
+### Languages
+
+* Dart
+* Java (Basic)
+* Python (Basic)
+
+### Mobile Development
+
+* Flutter
+
+### State Management
+
+* GetX
+* Provider
+* Bloc (Basic)
+
+### Backend & Cloud
+
+* Firebase
+* RESTful APIs
+
+### Local Database
+
+* Hive
+* SQLite
+* SharedPreferences
+
+### Integrations
+
+* Firebase Authentication
+* Cloud Firestore
+* Firebase Cloud Messaging
+* Google Maps
+* Mapbox
+* Google Calendar API
+* WebSocket
+* Push Notifications
+* App Localization
+* Offline Storage
+* In-App Purchase
+
+### Payment Gateways
+
+* Stripe
+* PayPal
+* SSLCommerz
+* bKash
+* Razorpay
+* Google Pay
+* Apple Pay
+
+### Tools
+
+* Git
+* GitHub
+* Android Studio
+* VS Code
+* Postman
+* Figma
 
 ---
 
-### 👯 Looking to Collaborate On  
-- Flutter open-source projects  
-- Mobile apps with modern UI/UX  
-- AI or ML-integrated mobile apps  
+## 📱 Featured Projects
+
+### 🛒 Nivaii
+
+Marketplace application for buying and selling products with secure payments, messaging, courier selection, and order management.
+
+### ☪️ AsSalam
+
+Islamic application featuring Prayer Times, Qibla Finder, Quran, Azan, and multilingual support.
+
+### 🦷 Denter
+
+Medical platform for doctors, students, and patients with educational resources and secure communication.
+
+### 🤝 MemberMe
+
+Professional networking application with digital business cards, NFC sharing, AI-powered tools, and payment integration.
+
+### 🗺️ Vanuatu Maps & Events
+
+Travel application with offline maps, business directory, event management, and location-based services.
 
 ---
 
-### 📫 How to Reach Me  
-📧 **Email:** ifranhossentuhin@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/ifrantuhin](https://linkedin.com/in/ifrantuhin)  
-💻 **GitHub:** [github.com/IfranTuhin](https://github.com/IfranTuhin)  
+## 🌱 Currently Learning
+
+* Flutter Web
+* Go (Golang) Backend Development
+* Scalable Backend Architecture
+* System Design
+* AI-powered Mobile Applications
 
 ---
 
-### ⚡ Fun Fact  
-> "I turn ideas into functional, beautiful apps — one line of Dart at a time." 💙  
+## 🤝 Let's Connect
+
+📧 **Email:** [ifranhossentuhin@gmail.com](mailto:ifranhossentuhin@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/ifran-hossain-tuhin-9218b0209/
+
+💻 **GitHub:** https://github.com/IfranTuhin
 
 ---
 
-### 🧩 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IfranTuhin&show_icons=true&theme=tokyonight" alt="IfranTuhin's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IfranTuhin&layout=compact&theme=tokyonight" height="165" />
-</p>
+## 💡 Philosophy
 
----
+> **"Building scalable, beautiful, and production-ready mobile applications with Flutter."**
 
-### 🏆 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=IfranTuhin&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-
----
-
-⭐ **“Keep Learning, Keep Building, and Keep Inspiring.”**
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
